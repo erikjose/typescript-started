@@ -1,4 +1,4 @@
-const carro: string = "Erik";
+const carro: string = "Erikkk";
 
 const func = (car: string): string => {
   return car;
