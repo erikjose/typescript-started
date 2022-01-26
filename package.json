@@ -8,8 +8,7 @@
     "start": "npm run build && node dist/index.js",
     "start:dev": "nodemon",
     "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write",
-    "lint": "eslint 'src/**' --ext .ts",
-    "prepare": "husky install"
+    "lint": "eslint 'src/**' --ext .ts"
   },
   "keywords": [],
   "author": "",
