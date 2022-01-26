@@ -7,4 +7,4 @@ const func = (car: string): string => {
 };
 
 func(carro);
-func('fusca');
+func('automóvel');
